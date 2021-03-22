@@ -1,0 +1,5 @@
+[ REGLAS DEL CONECTA 4 ] 
+1- Introduce una ficha en una columna mediante el comando "a <columna>".
+2- Si escribes el comando cuando no es tu turno, no se tendra en cuenta el movimiento.
+3- CUIDADO! Si introduces un movimiento invalido (columna llena o negativa)  o tardas mas de 20 segundos en contestar, pierdes el turno.
+4- El jugador que gane la ronda recibe un punto.
